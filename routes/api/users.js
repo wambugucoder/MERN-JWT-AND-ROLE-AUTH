@@ -55,8 +55,8 @@ const {errors, isValid } = validateRegisterInput(req.body);
             const transporter = nodemailer.createTransport({
             service: 'gmail',
             auth: {
-                user: 'josphatwambugu77@gmail.com',
-                pass: 'josphatwambugu12'
+                user: 'YOUR EMAIL',
+                pass: 'YOUR PASSWORD'
             }
           });
            
@@ -138,8 +138,8 @@ user.save ( err=> {
    const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-        user: 'josphatwambugu77@gmail.com',
-        pass: 'josphatwambugu12'
+        user: 'jYOUR EMAIL,
+        pass: 'YOUR PASSWORD'
     }
 });
    
