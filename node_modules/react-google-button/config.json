@@ -1,0 +1,6 @@
+{
+  "cdn": {
+    "bucket": "",
+    "prefix": "react-google-button"
+  }
+}
