@@ -5,5 +5,5 @@ B. GOOGLE LOGIN
 C.EMAIL VERIFICTION UPON SIGNING UP
 D.BASIC CRUD OOPERATIONS
 E. ROLE BASED AUTH FOR NODE JS
-
+F. REACT REDUX OPERAATIONS 
 To Insall the backend modules ,just type npm install to the project direcotry
