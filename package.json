@@ -19,7 +19,7 @@
     "express": "^4.17.1",
     "is-empty": "^1.2.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.10.0",
+    "mongoose": "^5.10.5",
     "node-sass": "^4.14.1",
     "nodemailer": "^6.4.11",
     "passport": "^0.4.1",
