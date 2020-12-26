@@ -18,7 +18,7 @@
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "webpack-node-externals": "^1.7.2",
-    "snyk": "^1.393.0"
+    "snyk": "^1.419.1"
   },
   "scripts": {
     "start": "react-scripts start",
