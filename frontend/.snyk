@@ -9898,3 +9898,5 @@ patch:
         patched: '2020-09-12T09:29:55.996Z'
     - snyk > snyk-docker-plugin > snyk-nodejs-lockfile-parser > graphlib > lodash:
         patched: '2020-09-12T09:38:12.738Z'
+    - react-scripts > eslint-plugin-testing-library > @typescript-eslint/experimental-utils > @typescript-eslint/typescript-estree > lodash:
+        patched: '2021-06-13T15:55:01.376Z'
