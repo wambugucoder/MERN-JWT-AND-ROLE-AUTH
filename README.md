@@ -1,9 +1,8 @@
 # MERN-STACK-JWT-ROLE-AUTH-LOGIN-REGISTER-WITH-EMAIL-VERIFICATION-GOOGLE-LOGIN-CRUD-APPLICATION
-Neccessary features needed for your mern Application are now available. 
-A. JWT_AUTH
-B. GOOGLE LOGIN
-C.EMAIL VERIFICTION UPON SIGNING UP
-D.BASIC CRUD OOPERATIONS
-E. ROLE BASED AUTH FOR NODE JS
-F. REACT REDUX OPERAATIONS 
-To Insall the backend modules ,just type npm install to the project direcotry
+Neccessary features needed for your MERN Application are now available:
+<li>JWT AUTHENTICATION</li>
+<li>LOGIN VIA GOOGLE</li>
+<li>EMAIL VERIFICTION UPON SIGNING UP</li>
+<li>BASIC CRUD OPERATIONS</li>
+<li>ROLE BASED AUTH FOR NODE JS</li>
+<li>REACT REDUX OPERATIONS</li> 
