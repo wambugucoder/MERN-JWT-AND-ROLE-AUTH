@@ -138,7 +138,7 @@ user.save ( err=> {
    const transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-        user: 'jYOUR EMAIL,
+        user: 'YOUR EMAIL',
         pass: 'YOUR PASSWORD'
     }
 });
