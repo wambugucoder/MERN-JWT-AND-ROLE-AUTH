@@ -7,7 +7,7 @@
     "@testing-library/jest-dom": "^5.5.0",
     "@testing-library/react": "^10.4.9",
     "@testing-library/user-event": "^10.1.0",
-    "axios": "^0.21.1",
+    "axios": "^1.6.0",
     "classnames": "^2.2.6",
     "jwt-decode": "^2.2.0",
     "react": "^16.13.1",
@@ -18,7 +18,7 @@
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "webpack-node-externals": "^1.7.2",
-    "snyk": "^1.630.0"
+    "snyk": "^1.685.0"
   },
   "scripts": {
     "start": "react-scripts start",
