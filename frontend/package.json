@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
-    "@testing-library/jest-dom": "^5.5.0",
+    "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^10.4.9",
     "@testing-library/user-event": "^10.1.0",
     "axios": "^0.21.1",
@@ -14,11 +14,11 @@
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "4.0.0",
+    "react-scripts": "5.0.0",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "webpack-node-externals": "^1.7.2",
-    "snyk": "^1.630.0"
+    "snyk": "^1.996.0"
   },
   "scripts": {
     "start": "react-scripts start",
