@@ -30,15 +30,8 @@
   },
   "devDependencies": {
     "@types/is-empty": "^1.2.0",
-
-
-
-    "@types/validator": "^13.0.0",
-    "nodemon": "^2.0.4"
-
-
-    "@types/validator": "^13.1.0",
-    "nodemon": "^2.0.3"
+    "nodemon": "^2.0.4",
+    "@types/validator": "^13.1.0"
 
   }
 }
